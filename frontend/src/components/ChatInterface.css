@@ -1,17 +1,23 @@
+.user-message,
+.bot-message {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
 .user-message {
-    text-align: right;
-    background-color: #f0f0f0;
-  }
-  
-  .bot-message {
-    text-align: left;
-    background-color: #e0e0e0;
-  }
-  
-  .chat-box {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-  }
-  
+  text-align: right;
+  background-color: #f0f0f0;
+}
+
+.bot-message {
+  text-align: left;
+  background-color: #e0e0e0;
+}
+
+.chat-box {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
